@@ -1,0 +1,11 @@
+[theme]
+backgroundColor="ivory"
+secondaryBackgroundColor="lemonchiffon"
+textColor="#666B47"
+showWidgetBorder=true
+borderColor="#666B47"
+
+[theme.sidebar]
+backgroundColor="lightsteelblue"
+secondaryBackgroundColor="steelblue"
+textColor="navy"
