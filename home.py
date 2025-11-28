@@ -21,18 +21,3 @@ st.markdown('''
     也會有相關衛教喔~嘗試看看吧! 
     ''')
 
-# #sidebar設定
-# with st.sidebar:
-#     test_choice = st.selectbox(
-#         "想計算的測試是......",
-#         ["10公尺行走測試 (10MWT)", "6分鐘行走測試 (6MWT)"]
-#     )
-
-
-# #選擇後變化
-# if test_choice == "10公尺行走測試 (10MWT)":
-#     st.subheader("10公尺行走測試:(注意事項)")
-# elif test_choice == "6分鐘行走測試 (6MWT)" :
-#     st.write("6分鐘行走測試:(注意事項)")
-
-#streamlit run 首頁.py
