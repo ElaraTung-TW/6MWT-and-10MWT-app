@@ -52,7 +52,7 @@ if calculate_button:
         result = result_f
     else:
         result = 0
-st.info(f":heavy_check_mark: 您的6分鐘行走距離理想數值為 **:green[{result:.1f}公尺]**" )
+    st.info(f":heavy_check_mark: 您的6分鐘行走距離理想數值為 **:green[{result:.1f}公尺]**" )
 
 st.write(":heavy_minus_sign:" * 32) 
 st.markdown(":zap: 臨床而言，健康成年人步行距離應落在 :blue[400 至 700 公尺]。")
