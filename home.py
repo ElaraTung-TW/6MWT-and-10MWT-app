@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title = ("行走能力測試計算機"),
+    page_title = ("行走能力簡易評估"),
     page_icon = (":walking_woman:"),
     layout = ("wide"),
     initial_sidebar_state = ("auto"),
@@ -14,7 +14,7 @@ st.set_page_config(
 
 
 
-st.title("行走能力測試計算 :abacus:")
+st.title("行走能力簡易評估 :abacus:")
 st.divider()
 st.markdown('''
     請在左欄先選擇所做測試，再依據提示填入相關資料，以便獲得行走能力的估算!  
